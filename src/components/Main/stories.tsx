@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import { Story, Meta } from '@storybook/react/types-6-0'
 import Main from '.'
 
